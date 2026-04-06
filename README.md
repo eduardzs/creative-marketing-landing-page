@@ -1,4 +1,4 @@
-# Marketing Digital Creativo
+# Creative Marketing - Landing Page
 Este projeto foi um desafio do Frontend Mentor.<br>
 Foram usados HTML e CSS na criação deste desafio.<br>
 Meu segundo projeto responsivo.<br>
